@@ -1,0 +1,1 @@
+json.partial! "userauths/userauth", userauth: @userauth
